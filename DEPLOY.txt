@@ -43,3 +43,5 @@ mvn jetty:run
 
 5. 在sonatype管理界面中promote项目到central maven repository
 6. 对发布版本创建tags
+
+end
